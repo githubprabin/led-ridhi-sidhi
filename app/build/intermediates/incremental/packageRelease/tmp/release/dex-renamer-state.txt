@@ -1,0 +1,4 @@
+#Sat Nov 24 17:00:45 NPT 2018
+base.0=C\:\\Users\\Admin\\Desktop\\react\\LED\\ridhishidhi\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
